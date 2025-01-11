@@ -2,6 +2,11 @@ This repository contains solutions to CSES problemset. Plese try solving before 
 
 ## Introductory Problems
 - Weird Algorithm [Problem](https://cses.fi/problemset/task/1068) | [solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Introductory%20Problems/Weird_Algorithm.cpp)
+- Missing Number [Problem](https://cses.fi/problemset/task/1083) | [solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Introductory%20Problems/Weird_Algorithm.cpp)
+- Repetitions [Problem](https://cses.fi/problemset/task/1069) | [solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Introductory%20Problems/Weird_Algorithm.cpp)
+- Increasing Array [Problem](https://cses.fi/problemset/task/1094) | [solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Introductory%20Problems/Weird_Algorithm.cpp)
+- Permutations [Problem](https://cses.fi/problemset/task/1070) | [solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Introductory%20Problems/Weird_Algorithm.cpp)
+- Number Spiral [Problem](https://cses.fi/problemset/task/1071) | [solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Introductory%20Problems/Weird_Algorithm.cpp)
 ## Sorting and Searching
 - Distinct Numbers [Problem](https://cses.fi/problemset/task/1621) | [solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Sorting%20and%20Searching/Distinct_Numbers.cpp)
 ## Dynamic Programming
