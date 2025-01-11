@@ -2,11 +2,25 @@ This repository contains solutions to CSES problemset. Plese try solving before 
 
 ## Introductory Problems
 - Weird Algorithm [Problem](https://cses.fi/problemset/task/1068) | [solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Introductory%20Problems/Weird_Algorithm.cpp)
-- Missing Number [Problem](https://cses.fi/problemset/task/1083) | [solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Introductory%20Problems/Weird_Algorithm.cpp)
-- Repetitions [Problem](https://cses.fi/problemset/task/1069) | [solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Introductory%20Problems/Weird_Algorithm.cpp)
-- Increasing Array [Problem](https://cses.fi/problemset/task/1094) | [solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Introductory%20Problems/Weird_Algorithm.cpp)
-- Permutations [Problem](https://cses.fi/problemset/task/1070) | [solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Introductory%20Problems/Weird_Algorithm.cpp)
-- Number Spiral [Problem](https://cses.fi/problemset/task/1071) | [solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Introductory%20Problems/Weird_Algorithm.cpp)
+- Missing Number [Problem](https://cses.fi/problemset/task/1083) | [solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Introductory%20Problems/Missing_Number.cpp)
+- Repetitions [Problem](https://cses.fi/problemset/task/1069) | [solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Introductory%20Problems/Repetitions.cpp)
+- Increasing Array [Problem](https://cses.fi/problemset/task/1094) | [solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Introductory%20Problems/Increasing_Array.cpp)
+- Permutations [Problem](https://cses.fi/problemset/task/1070) | [solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Introductory%20Problems/Permutations.cpp)
+- Number Spiral [Problem](https://cses.fi/problemset/task/1071) | [solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Introductory%20Problems/Number_Spiral.cpp)
+- Two Knights [Problem](https://cses.fi/problemset/task/1072)
+- Two Sets[Problem](https://cses.fi/problemset/task/1092)
+- Bit Strings [Problem](https://cses.fi/problemset/task/1617)
+- Trailing Zeros [Problem](https://cses.fi/problemset/task/1618)
+- Coin Piles [Problem](https://cses.fi/problemset/task/1754)
+- Palindrome Reorder [Problem](https://cses.fi/problemset/task/1755)
+- Gray Code [Problem](https://cses.fi/problemset/task/2205)
+- Tower of Hanoi [Problem](https://cses.fi/problemset/task/2165)
+- Creating Strings [Problem](https://cses.fi/problemset/task/1622)
+- Apple Division [Problem](https://cses.fi/problemset/task/1622)
+- Chessboard and Queens [Problem](https://cses.fi/problemset/task/1624)
+- Digit Queries [Problem](https://cses.fi/problemset/task/2431)
+- Grid Paths [Problem](https://cses.fi/problemset/task/1625)
+
 ## Sorting and Searching
 - Distinct Numbers [Problem](https://cses.fi/problemset/task/1621) | [solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Sorting%20and%20Searching/Distinct_Numbers.cpp)
 ## Dynamic Programming
