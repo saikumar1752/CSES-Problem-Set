@@ -8,10 +8,10 @@ This repository contains solutions to CSES problemset. Plese try solving before 
 - Increasing Array [Problem](https://cses.fi/problemset/task/1094) | [solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Introductory%20Problems/Increasing_Array.cpp)
 - Permutations [Problem](https://cses.fi/problemset/task/1070) | [solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Introductory%20Problems/Permutations.cpp)
 - Number Spiral [Problem](https://cses.fi/problemset/task/1071) | [solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Introductory%20Problems/Number_Spiral.cpp)
-- Two Knights [Problem](https://cses.fi/problemset/task/1072)
+- Two Knights [Problem](https://cses.fi/problemset/task/1072) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Introductory%20Problems/Two_Knights.cpp)
 - Two Sets[Problem](https://cses.fi/problemset/task/1092)
-- Bit Strings [Problem](https://cses.fi/problemset/task/1617)
-- Trailing Zeros [Problem](https://cses.fi/problemset/task/1618)
+- Bit Strings [Problem](https://cses.fi/problemset/task/1617) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Introductory%20Problems/Bit_Strings.cpp)
+- Trailing Zeros [Problem](https://cses.fi/problemset/task/1618) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Introductory%20Problems/Trailing_Zeros.cpp)
 - Coin Piles [Problem](https://cses.fi/problemset/task/1754)
 - Palindrome Reorder [Problem](https://cses.fi/problemset/task/1755)
 - Gray Code [Problem](https://cses.fi/problemset/task/2205)
@@ -63,6 +63,7 @@ This repository contains solutions to CSES problemset. Plese try solving before 
 ## Dynamic Programming
 
 - Dice Combinations [Problem](https://cses.fi/problemset/task/1633) | [solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Dynamic%20Programming/Dice_Combinations.cpp)
+- Removal Game [Problem](https://cses.fi/problemset/task/1097) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Dynamic%20Programming/Removal_Game.cpp)
 
 ## Graph Algorithms
 
