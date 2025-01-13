@@ -9,7 +9,7 @@ This repository contains solutions to CSES problemset. Plese try solving before 
 - Permutations [Problem](https://cses.fi/problemset/task/1070) | [solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Introductory%20Problems/Permutations.cpp)
 - Number Spiral [Problem](https://cses.fi/problemset/task/1071) | [solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Introductory%20Problems/Number_Spiral.cpp)
 - Two Knights [Problem](https://cses.fi/problemset/task/1072) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Introductory%20Problems/Two_Knights.cpp)
-- Two Sets[Problem](https://cses.fi/problemset/task/1092)
+- Two Sets[Problem](https://cses.fi/problemset/task/1092) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Introductory%20Problems/Two_Sets.cpp)
 - Bit Strings [Problem](https://cses.fi/problemset/task/1617) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Introductory%20Problems/Bit_Strings.cpp)
 - Trailing Zeros [Problem](https://cses.fi/problemset/task/1618) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Introductory%20Problems/Trailing_Zeros.cpp)
 - Coin Piles [Problem](https://cses.fi/problemset/task/1754)
