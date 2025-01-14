@@ -17,8 +17,8 @@ This repository contains solutions to CSES problemset. Plese try solving before 
 - Palindrome Reorder [Problem](https://cses.fi/problemset/task/1755)
 - Gray Code [Problem](https://cses.fi/problemset/task/2205)
 - Tower of Hanoi [Problem](https://cses.fi/problemset/task/2165)
-- Creating Strings [Problem](https://cses.fi/problemset/task/1622) | [Solution](https://cses.fi/problemset/task/1622)
-- Apple Division [Problem](https://cses.fi/problemset/task/1622) | [Solution](https://cses.fi/problemset/task/1623)
+- Creating Strings [Problem](https://cses.fi/problemset/task/1622) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Introductory%20Problems/Creating_Strings.cpp)
+- Apple Division [Problem](https://cses.fi/problemset/task/1622) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Introductory%20Problems/Apple_Division.cpp)
 - Chessboard and Queens [Problem](https://cses.fi/problemset/task/1624)
 - Digit Queries [Problem](https://cses.fi/problemset/task/2431)
 - Grid Paths [Problem](https://cses.fi/problemset/task/1625)
@@ -26,10 +26,10 @@ This repository contains solutions to CSES problemset. Plese try solving before 
 ## Sorting and Searching
 
 - Distinct Numbers [Problem](https://cses.fi/problemset/task/1621) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Sorting%20and%20Searching/Distinct_Numbers.cpp)
-- Apartments [Problem](https://cses.fi/problemset/task/1084) | [Solution]()
-- Ferris Wheel [Problem](https://cses.fi/problemset/task/1090) | [Solution]()
+- Apartments [Problem](https://cses.fi/problemset/task/1084) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Sorting%20and%20Searching/Apartments.cpp)
+- Ferris Wheel [Problem](https://cses.fi/problemset/task/1090) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Sorting%20and%20Searching/Ferris_Wheel.cpp)
 - Concert Tickets [Problem](https://cses.fi/problemset/task/1091)
-- Restaurant Customers [Problem](https://cses.fi/problemset/task/1619) | [Solution]()
+- Restaurant Customers [Problem](https://cses.fi/problemset/task/1619) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Sorting%20and%20Searching/Restaurant_Customers.cpp)
 - Movie Festival [Problem](https://cses.fi/problemset/task/1629)
 - Sum of Two Values [Problem](https://cses.fi/problemset/task/1640)
 - Maximum Subarray Sum [Problem](https://cses.fi/problemset/task/1643)
@@ -69,7 +69,7 @@ This repository contains solutions to CSES problemset. Plese try solving before 
 ## Graph Algorithms
 
 - Counting Rooms [Problem](https://cses.fi/problemset/task/1192) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Graph%20Algorithms/Counting_Rooms.cpp)
-- Flight Discount [Problem](https://cses.fi/problemset/task/1195/) | [Solution]()
+- Flight Discount [Problem](https://cses.fi/problemset/task/1195/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Graph%20Algorithms/Flight_Discount.cpp)
 
 ## Range Queries
 
