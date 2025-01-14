@@ -1,14 +1,14 @@
-This repository contains solutions to CSES problemset. Plese try solving before looking at the solution.
+This repository contains solutions to CSES problemset. Plese try solving before looking at the Solution.
 [Link to CSES problemset](https://cses.fi/problemset/)
 
 ## Introductory Problems
 
-- Weird Algorithm [Problem](https://cses.fi/problemset/task/1068) | [solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Introductory%20Problems/Weird_Algorithm.cpp)
-- Missing Number [Problem](https://cses.fi/problemset/task/1083) | [solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Introductory%20Problems/Missing_Number.cpp)
-- Repetitions [Problem](https://cses.fi/problemset/task/1069) | [solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Introductory%20Problems/Repetitions.cpp)
-- Increasing Array [Problem](https://cses.fi/problemset/task/1094) | [solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Introductory%20Problems/Increasing_Array.cpp)
-- Permutations [Problem](https://cses.fi/problemset/task/1070) | [solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Introductory%20Problems/Permutations.cpp)
-- Number Spiral [Problem](https://cses.fi/problemset/task/1071) | [solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Introductory%20Problems/Number_Spiral.cpp)
+- Weird Algorithm [Problem](https://cses.fi/problemset/task/1068) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Introductory%20Problems/Weird_Algorithm.cpp)
+- Missing Number [Problem](https://cses.fi/problemset/task/1083) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Introductory%20Problems/Missing_Number.cpp)
+- Repetitions [Problem](https://cses.fi/problemset/task/1069) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Introductory%20Problems/Repetitions.cpp)
+- Increasing Array [Problem](https://cses.fi/problemset/task/1094) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Introductory%20Problems/Increasing_Array.cpp)
+- Permutations [Problem](https://cses.fi/problemset/task/1070) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Introductory%20Problems/Permutations.cpp)
+- Number Spiral [Problem](https://cses.fi/problemset/task/1071) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Introductory%20Problems/Number_Spiral.cpp)
 - Two Knights [Problem](https://cses.fi/problemset/task/1072) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Introductory%20Problems/Two_Knights.cpp)
 - Two Sets[Problem](https://cses.fi/problemset/task/1092) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Introductory%20Problems/Two_Sets.cpp)
 - Bit Strings [Problem](https://cses.fi/problemset/task/1617) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Introductory%20Problems/Bit_Strings.cpp)
@@ -17,19 +17,19 @@ This repository contains solutions to CSES problemset. Plese try solving before 
 - Palindrome Reorder [Problem](https://cses.fi/problemset/task/1755)
 - Gray Code [Problem](https://cses.fi/problemset/task/2205)
 - Tower of Hanoi [Problem](https://cses.fi/problemset/task/2165)
-- Creating Strings [Problem](https://cses.fi/problemset/task/1622)
-- Apple Division [Problem](https://cses.fi/problemset/task/1622)
+- Creating Strings [Problem](https://cses.fi/problemset/task/1622) | [Solution](https://cses.fi/problemset/task/1622)
+- Apple Division [Problem](https://cses.fi/problemset/task/1622) | [Solution](https://cses.fi/problemset/task/1623)
 - Chessboard and Queens [Problem](https://cses.fi/problemset/task/1624)
 - Digit Queries [Problem](https://cses.fi/problemset/task/2431)
 - Grid Paths [Problem](https://cses.fi/problemset/task/1625)
 
 ## Sorting and Searching
 
-- Distinct Numbers [Problem](https://cses.fi/problemset/task/1621) | [solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Sorting%20and%20Searching/Distinct_Numbers.cpp)
-- Apartments [Problem](https://cses.fi/problemset/task/1084)
-- Ferris Wheel [Problem](https://cses.fi/problemset/task/1090)
+- Distinct Numbers [Problem](https://cses.fi/problemset/task/1621) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Sorting%20and%20Searching/Distinct_Numbers.cpp)
+- Apartments [Problem](https://cses.fi/problemset/task/1084) | [Solution]()
+- Ferris Wheel [Problem](https://cses.fi/problemset/task/1090) | [Solution]()
 - Concert Tickets [Problem](https://cses.fi/problemset/task/1091)
-- Restaurant Customers [Problem](https://cses.fi/problemset/task/1619)
+- Restaurant Customers [Problem](https://cses.fi/problemset/task/1619) | [Solution]()
 - Movie Festival [Problem](https://cses.fi/problemset/task/1629)
 - Sum of Two Values [Problem](https://cses.fi/problemset/task/1640)
 - Maximum Subarray Sum [Problem](https://cses.fi/problemset/task/1643)
@@ -63,33 +63,34 @@ This repository contains solutions to CSES problemset. Plese try solving before 
 
 ## Dynamic Programming
 
-- Dice Combinations [Problem](https://cses.fi/problemset/task/1633) | [solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Dynamic%20Programming/Dice_Combinations.cpp)
+- Dice Combinations [Problem](https://cses.fi/problemset/task/1633) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Dynamic%20Programming/Dice_Combinations.cpp)
 - Removal Game [Problem](https://cses.fi/problemset/task/1097) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Dynamic%20Programming/Removal_Game.cpp)
 
 ## Graph Algorithms
 
-- Counting Rooms [Problem](https://cses.fi/problemset/task/1192) | [solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Graph%20Algorithms/Counting_Rooms.cpp)
+- Counting Rooms [Problem](https://cses.fi/problemset/task/1192) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Graph%20Algorithms/Counting_Rooms.cpp)
+- Flight Discount [Problem](https://cses.fi/problemset/task/1195/) | [Solution]()
 
 ## Range Queries
 
-- Static Range Sum Queries [Problem](https://cses.fi/problemset/task/1646) | [solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Range%20Queries/Static_Range_Sum_Queries.cpp)
+- Static Range Sum Queries [Problem](https://cses.fi/problemset/task/1646) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Range%20Queries/Static_Range_Sum_Queries.cpp)
 
 ## Tree Algorithms
 
-- Subordinates [Problem](https://cses.fi/problemset/task/1674) | [solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Tree%20Algorithms/Subordinates.cpp)
+- Subordinates [Problem](https://cses.fi/problemset/task/1674) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Tree%20Algorithms/Subordinates.cpp)
 
 ## Mathematics
 
-- Exponentiation [Problem](https://cses.fi/problemset/task/1095) | [solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Mathematics/Exponentiation.cpp)
+- Exponentiation [Problem](https://cses.fi/problemset/task/1095) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Mathematics/Exponentiation.cpp)
 
 ## String Algorithms
 
-- String Matching [Problem](https://cses.fi/problemset/task/1753) | [solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/String%20Algorithms/String_Matching.cpp)
+- String Matching [Problem](https://cses.fi/problemset/task/1753) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/String%20Algorithms/String_Matching.cpp)
 
 ## Geometry
 
-- Convex Hull [Problem](https://cses.fi/problemset/task/2195) | [solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Geometry/Convex_Hull.cpp)
+- Convex Hull [Problem](https://cses.fi/problemset/task/2195) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Geometry/Convex_Hull.cpp)
 
 ## Advanced Techniques
 
-- Meet in the Middle [Problem](https://cses.fi/problemset/task/1628) | [solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Advanced%20Techniques/Meet_in_the_Middle.cpp)
+- Meet in the Middle [Problem](https://cses.fi/problemset/task/1628) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Advanced%20Techniques/Meet_in_the_Middle.cpp)
