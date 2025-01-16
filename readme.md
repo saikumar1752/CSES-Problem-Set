@@ -64,6 +64,11 @@ This repository contains solutions to CSES problemset. Plese try solving before 
 ## Dynamic Programming
 
 - Dice Combinations [Problem](https://cses.fi/problemset/task/1633) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Dynamic%20Programming/Dice_Combinations.cpp)
+- Minimizing Coins[Problem](https://cses.fi/problemset/task/1634/) | [Solution]()
+- Coin Combinations I[Problem](https://cses.fi/problemset/task/1635/) | [Solution]()
+- Coin Combinations II[Problem](https://cses.fi/problemset/task/1636/) | [Solution]()
+- Removing Digits[Problem](https://cses.fi/problemset/task/1637/) | [Solution]()
+- Grid Paths[Problem](https://cses.fi/problemset/task/1638/) | [Solution]()
 - Removal Game [Problem](https://cses.fi/problemset/task/1097) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Dynamic%20Programming/Removal_Game.cpp)
 
 ## Graph Algorithms
