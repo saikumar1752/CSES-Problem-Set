@@ -64,12 +64,12 @@ This repository contains solutions to CSES problemset. Plese try solving before 
 ## Dynamic Programming
 
 - Dice Combinations [Problem](https://cses.fi/problemset/task/1633) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Dynamic%20Programming/Dice_Combinations.cpp)
-- Minimizing Coins[Problem](https://cses.fi/problemset/task/1634/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Dynamic%20Programming/Minimizing_Coins.cpp)
-- Coin Combinations I[Problem](https://cses.fi/problemset/task/1635/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Dynamic%20Programming/Coin_Combinations_I.cpp)
-- Coin Combinations II[Problem](https://cses.fi/problemset/task/1636/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Dynamic%20Programming/Coin_Combinations_II.cpp)
-- Removing Digits[Problem](https://cses.fi/problemset/task/1637/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Dynamic%20Programming/Removing_Digits.cpp)
-- Grid Paths[Problem](https://cses.fi/problemset/task/1638/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Dynamic%20Programming/Removal_Game.cpp)
-- Removal Game [Problem](https://cses.fi/problemset/task/1097) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Dynamic%20Programming/Removal_Game.cpp)
+- Minimizing Coins [Problem](https://cses.fi/problemset/task/1634/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Dynamic%20Programming/Minimizing_Coins.cpp)
+- Coin Combinations I [Problem](https://cses.fi/problemset/task/1635/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Dynamic%20Programming/Coin_Combinations_I.cpp)
+- Coin Combinations II [Problem](https://cses.fi/problemset/task/1636/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Dynamic%20Programming/Coin_Combinations_II.cpp)
+- Removing Digits[Problem] (https://cses.fi/problemset/task/1637/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Dynamic%20Programming/Removing_Digits.cpp)
+- Grid Paths[Problem] (https://cses.fi/problemset/task/1638/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Dynamic%20Programming/Removal_Game.cpp)
+- Removal Game [Problem] (https://cses.fi/problemset/task/1097) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Dynamic%20Programming/Removal_Game.cpp)
 
 ## Graph Algorithms
 
@@ -83,12 +83,11 @@ This repository contains solutions to CSES problemset. Plese try solving before 
 ## Tree Algorithms
 
 - Subordinates [Problem](https://cses.fi/problemset/task/1674) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Tree%20Algorithms/Subordinates.cpp)
-- Static Range Minimum Queries [Problem](https://cses.fi/problemset/task/1647/) | [Solution]()
-- Dynamic Range Sum Queries [Problem](https://cses.fi/problemset/task/1648/) | [Solution]()
-- Dynamic Range Minimum Queries [Problem](https://cses.fi/problemset/task/1649/) | [Solution]()
-- Range Xor Queries [Problem](https://cses.fi/problemset/task/1650/) | [Solution]()
-- Range Update Queries [Problem](https://cses.fi/problemset/task/1651/) | [Solution]()
-
+- Static Range Minimum Queries [Problem](https://cses.fi/problemset/task/1647/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Tree%20Algorithms/Static_Range_Minimum_Queries.cpp)
+- Dynamic Range Sum Queries [Problem](https://cses.fi/problemset/task/1648/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Tree%20Algorithms/Dynamic_Range_Sum_Queries.cpp)
+- Dynamic Range Minimum Queries [Problem](https://cses.fi/problemset/task/1649/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Tree%20Algorithms/Dynamic_Range_Minimum_Queries.cpp)
+- Range Xor Queries [Problem](https://cses.fi/problemset/task/1650/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Tree%20Algorithms/Range_Xor_Queries.cpp)
+- Range Update Queries [Problem](https://cses.fi/problemset/task/1651/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Tree%20Algorithms/Range_Update_Queries.cpp)
 
 ## Mathematics
 
