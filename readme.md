@@ -75,6 +75,11 @@ This repository contains solutions to CSES problemset. Plese try solving before 
 
 - Counting Rooms [Problem](https://cses.fi/problemset/task/1192) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Graph%20Algorithms/Counting_Rooms.cpp)
 - Flight Discount [Problem](https://cses.fi/problemset/task/1195/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Graph%20Algorithms/Flight_Discount.cpp)
+- Labyrinth [Problem](https://cses.fi/problemset/task/1193) | [Solution]()
+- Building Roads [Problem](https://cses.fi/problemset/task/1666) | [Solution]()
+- Message Route [Problem](https://cses.fi/problemset/task/1667) | [Solution]()
+- Round Trip [Problem](https://cses.fi/problemset/task/1669) | [Solution]()
+- Course Schedule [Problem](https://cses.fi/problemset/task/1679) | [Solution]()
 
 ## Range Queries
 
