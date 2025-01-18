@@ -34,9 +34,9 @@ This repository contains solutions to CSES problemset. Plese try solving before 
 - Minimizing Coins [Problem](https://cses.fi/problemset/task/1634/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Dynamic%20Programming/Minimizing_Coins.cpp)
 - Coin Combinations I [Problem](https://cses.fi/problemset/task/1635/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Dynamic%20Programming/Coin_Combinations_I.cpp)
 - Coin Combinations II [Problem](https://cses.fi/problemset/task/1636/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Dynamic%20Programming/Coin_Combinations_II.cpp)
-- Removing Digits[Problem] (https://cses.fi/problemset/task/1637/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Dynamic%20Programming/Removing_Digits.cpp)
-- Grid Paths[Problem] (https://cses.fi/problemset/task/1638/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Dynamic%20Programming/Removal_Game.cpp)
-- Removal Game [Problem] (https://cses.fi/problemset/task/1097) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Dynamic%20Programming/Removal_Game.cpp)
+- Removing Digits[Problem](https://cses.fi/problemset/task/1637/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Dynamic%20Programming/Removing_Digits.cpp)
+- Grid Paths[Problem](https://cses.fi/problemset/task/1638/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Dynamic%20Programming/Removal_Game.cpp)
+- Removal Game [Problem](https://cses.fi/problemset/task/1097) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Dynamic%20Programming/Removal_Game.cpp)
 
 ## Graph Algorithms
 
