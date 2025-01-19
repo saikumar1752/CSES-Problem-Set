@@ -68,11 +68,11 @@ This repository contains solutions to CSES problemset. Plese try solving before 
 ## String Algorithms
 
 - String Matching [Problem](https://cses.fi/problemset/task/1753) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/String%20Algorithms/String_Matching.cpp)
-- Distinct Substrings [Problem](https://cses.fi/problemset/task/2105/) | [Solution]()
-- Repeating Substring [Problem](https://cses.fi/problemset/task/2106/) | [Solution]()
-- String Functions [Problem](https://cses.fi/problemset/task/2107/) | [Solution]()
-- Substring Order I [Problem](https://cses.fi/problemset/task/2108/) | [Solution]()
-- Substring Distribution [Problem](https://cses.fi/problemset/task/2110/) | [Solution]()
+- Distinct Substrings [Problem](https://cses.fi/problemset/task/2105/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/String%20Algorithms/Distinct_Substrings.cpp)
+- Repeating Substring [Problem](https://cses.fi/problemset/task/2106/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/String%20Algorithms/Repeating_Substring.cpp)
+- String Functions [Problem](https://cses.fi/problemset/task/2107/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/String%20Algorithms/String_Functions.cpp)
+- Substring Order I [Problem](https://cses.fi/problemset/task/2108/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/String%20Algorithms/Substring_Order_I.cpp)
+- Substring Distribution [Problem](https://cses.fi/problemset/task/2110/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/String%20Algorithms/Substring_Distribution.cpp)
 
 ## Geometry
 
