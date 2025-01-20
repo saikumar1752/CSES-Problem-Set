@@ -50,12 +50,12 @@ This repository contains solutions to CSES problemset. Plese try solving before 
 
 ## Range Queries
 
-- Static Range Sum Queries [Problem](https://cses.fi/problemset/task/1646) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Range%20Queries/Static_Range_Sum_Queries.cpp)
-- Static Range Minimum Queries [Problem](https://cses.fi/problemset/task/1647/) | [Solution]()
-- Dynamic Range Sum Queries [Problem](https://cses.fi/problemset/task/1648/) | [Solution]()
-- Dynamic Range Minimum Queries [Problem](https://cses.fi/problemset/task/1649/) | [Solution]()
-- Range Xor Queries [Problem](https://cses.fi/problemset/task/1650/) | [Solution]()
-- Range Update Queries [Problem](https://cses.fi/problemset/task/1651/) | [Solution]()
+- Static Range Sum Queries [Problem](https://cses.fi/problemset/task/1646) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Range%20Queries/Dynamic_Range_Minimum_Queries.cpp)
+- Static Range Minimum Queries [Problem](https://cses.fi/problemset/task/1647/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Range%20Queries/Static_Range_Minimum_Queries.cpp)
+- Dynamic Range Sum Queries [Problem](https://cses.fi/problemset/task/1648/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Range%20Queries/Dynamic_Range_Sum_Queries.cpp)
+- Dynamic Range Minimum Queries [Problem](https://cses.fi/problemset/task/1649/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Range%20Queries/Dynamic_Range_Minimum_Queries.cpp)
+- Range Xor Queries [Problem](https://cses.fi/problemset/task/1650/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Range%20Queries/Range_Xor_Queries.cpp)
+- Range Update Queries [Problem](https://cses.fi/problemset/task/1651/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Range%20Queries/Range_Update_Queries.cpp)
 
 ## Tree Algorithms
 
