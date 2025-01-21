@@ -69,11 +69,11 @@ This repository contains solutions to CSES problemset. Plese try solving before 
 ## Mathematics
 
 - Exponentiation [Problem](https://cses.fi/problemset/task/1095) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Mathematics/Exponentiation.cpp)
-- Exponentiation II [Problem](https://cses.fi/problemset/task/1712/) | [Solution]()
-- Counting Divisors [Problem](https://cses.fi/problemset/task/1713/) | [Solution]()
-- Binomial Coefficients [Problem](https://cses.fi/problemset/task/1079/) | [Solution]()
-- Creating Strings II [Problem](https://cses.fi/problemset/task/1715/) | [Solution]()
-- Distributing Apples [Problem](https://cses.fi/problemset/task/1716) | [Solution]()
+- Exponentiation II [Problem](https://cses.fi/problemset/task/1712/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Mathematics/Exponentiation_II.cpp)
+- Counting Divisors [Problem](https://cses.fi/problemset/task/1713/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Mathematics/Counting_Divisors.cpp)
+- Binomial Coefficients [Problem](https://cses.fi/problemset/task/1079/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Mathematics/Binomial_Coefficients.cpp)
+- Creating Strings II [Problem](https://cses.fi/problemset/task/1715/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Mathematics/Creating_Strings_II.cpp)
+- Distributing Apples [Problem](https://cses.fi/problemset/task/1716) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Mathematics/Distributing_Apples.cpp)
 
 ## String Algorithms
 
