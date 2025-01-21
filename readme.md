@@ -69,6 +69,11 @@ This repository contains solutions to CSES problemset. Plese try solving before 
 ## Mathematics
 
 - Exponentiation [Problem](https://cses.fi/problemset/task/1095) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Mathematics/Exponentiation.cpp)
+- Exponentiation II [Problem](https://cses.fi/problemset/task/1712/) | [Solution]()
+- Counting Divisors [Problem](https://cses.fi/problemset/task/1713/) | [Solution]()
+- Binomial Coefficients [Problem](https://cses.fi/problemset/task/1079/) | [Solution]()
+- Creating Strings II [Problem](https://cses.fi/problemset/task/1715/) | [Solution]()
+- Distributing Apples [Problem](https://cses.fi/problemset/task/1716) | [Solution]()
 
 ## String Algorithms
 
