@@ -37,11 +37,11 @@ This repository contains solutions to CSES problemset. Plese try solving before 
 - Removing Digits [Problem](https://cses.fi/problemset/task/1637/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Dynamic%20Programming/Removing_Digits.cpp)
 - Grid Paths [Problem](https://cses.fi/problemset/task/1638/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Dynamic%20Programming/Removal_Game.cpp)
 - Removal Game [Problem](https://cses.fi/problemset/task/1097) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Dynamic%20Programming/Removal_Game.cpp)
-- Projects [Problem](https://cses.fi/problemset/task/1140/) | [Solution]()
-- Increasing Subsequence [Problem](https://cses.fi/problemset/task/1145/) | [Solution]()
-- Two Sets II [Problem](https://cses.fi/problemset/task/1093/) | [Solution]()
-- Money Sums [Problem](https://cses.fi/problemset/task/1745/) | [Solution]()
-- Rectangle Cutting [Problem](https://cses.fi/problemset/task/1744/) | [Solution]()
+- Projects [Problem](https://cses.fi/problemset/task/1140/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Dynamic%20Programming/Projects.cpp)
+- Increasing Subsequence [Problem](https://cses.fi/problemset/task/1145/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Dynamic%20Programming/Increasing_Subsequence.cpp)
+- Two Sets II [Problem](https://cses.fi/problemset/task/1093/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Dynamic%20Programming/Two_Sets_II.cpp)
+- Money Sums [Problem](https://cses.fi/problemset/task/1745/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Dynamic%20Programming/Money_Sums.cpp)
+- Rectangle Cutting [Problem](https://cses.fi/problemset/task/1744/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Dynamic%20Programming/Rectangle_Cutting.cpp)
 
 ## Graph Algorithms
 
