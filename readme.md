@@ -52,11 +52,11 @@ This repository contains solutions to CSES problemset. Plese try solving before 
 - Message Route [Problem](https://cses.fi/problemset/task/1667) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Graph%20Algorithms/Message_Route.cpp)
 - Round Trip [Problem](https://cses.fi/problemset/task/1669) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Graph%20Algorithms/Round_Trip.cpp)
 - Course Schedule [Problem](https://cses.fi/problemset/task/1679) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Graph%20Algorithms/Course_Schedule.cpp)
-- Download Speed [Problem](https://cses.fi/problemset/task/1694/) | [Solution]()
-- Planets and Kingdoms [Problem](https://cses.fi/problemset/task/1683/) | [Solution]()
-- Road Reparation [Problem](https://cses.fi/problemset/task/1675/) | [Solution]()
-- Flight Routes [Problem](https://cses.fi/problemset/task/1196/) | [Solution]()
-- Cycle Finding [Problem](https://cses.fi/problemset/task/1197/) | [Solution]()
+- Download Speed [Problem](https://cses.fi/problemset/task/1694/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Graph%20Algorithms/Download_Speed.cpp)
+- Planets and Kingdoms [Problem](https://cses.fi/problemset/task/1683/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Graph%20Algorithms/Planets_and_Kingdoms.cpp)
+- Road Reparation [Problem](https://cses.fi/problemset/task/1675/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Graph%20Algorithms/Road_Reparation.cpp)
+- Flight Routes [Problem](https://cses.fi/problemset/task/1196/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Graph%20Algorithms/Flight_Routes.cpp)
+- Cycle Finding [Problem](https://cses.fi/problemset/task/1197/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Graph%20Algorithms/Cycle_Finding.cpp)
 
 ## Range Queries
 
