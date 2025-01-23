@@ -52,6 +52,11 @@ This repository contains solutions to CSES problemset. Plese try solving before 
 - Message Route [Problem](https://cses.fi/problemset/task/1667) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Graph%20Algorithms/Message_Route.cpp)
 - Round Trip [Problem](https://cses.fi/problemset/task/1669) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Graph%20Algorithms/Round_Trip.cpp)
 - Course Schedule [Problem](https://cses.fi/problemset/task/1679) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Graph%20Algorithms/Course_Schedule.cpp)
+- Download Speed [Problem](https://cses.fi/problemset/task/1694/) | [Solution]()
+- Planets and Kingdoms [Problem](https://cses.fi/problemset/task/1683/) | [Solution]()
+- Road Reparation [Problem](https://cses.fi/problemset/task/1675/) | [Solution]()
+- Flight Routes [Problem](https://cses.fi/problemset/task/1196/) | [Solution]()
+- Cycle Finding [Problem](https://cses.fi/problemset/task/1197/) | [Solution]()
 
 ## Range Queries
 
