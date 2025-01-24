@@ -66,6 +66,11 @@ This repository contains solutions to CSES problemset. Plese try solving before 
 - Dynamic Range Minimum Queries [Problem](https://cses.fi/problemset/task/1649/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Range%20Queries/Dynamic_Range_Minimum_Queries.cpp)
 - Range Xor Queries [Problem](https://cses.fi/problemset/task/1650/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Range%20Queries/Range_Xor_Queries.cpp)
 - Range Update Queries [Problem](https://cses.fi/problemset/task/1651/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Range%20Queries/Range_Update_Queries.cpp)
+- Forest Queries II [Problem](https://cses.fi/problemset/task/1739/) | [Solution]()
+- Salary Queries [Problem](https://cses.fi/problemset/task/1144/) | [Solution]()
+- List Removals [Problem](https://cses.fi/problemset/task/1749/) | [Solution]()
+- Hotel Queries [Problem](https://cses.fi/problemset/task/1143/) | [Solution]()
+- Forest Queries [Problem](https://cses.fi/problemset/task/1652/) | [Solution]()
 
 ## Tree Algorithms
 
