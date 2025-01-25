@@ -27,6 +27,11 @@ This repository contains solutions to CSES problemset. Plese try solving before 
 - Nearest Smaller Values [Problem](https://cses.fi/problemset/task/1645) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Sorting%20and%20Searching/Nearest_Smaller_Values.cpp)
 - Subarray Sums I [Problem](https://cses.fi/problemset/task/1660) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Sorting%20and%20Searching/Subarray_Sums_I.cpp)
 - Subarray Sums II [Problem](https://cses.fi/problemset/task/1661) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Sorting%20and%20Searching/Subarray_Sums_II.cpp)
+- Maximum Subarray Sum [Problem](https://cses.fi/problemset/task/1643/) | [Solution]()
+- Playlist [Problem](https://cses.fi/problemset/task/1141/) | [Solution]()
+- Subarray Distinct Values [Problem](https://cses.fi/problemset/task/2428/) | [Solution]()
+- Sliding Window Median [Problem](https://cses.fi/problemset/task/1076/) | [Solution]()
+- Sum of Two Values [Problem](https://cses.fi/problemset/task/1640/) | [Solution]()
 
 ## Dynamic Programming
 
