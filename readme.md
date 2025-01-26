@@ -47,8 +47,8 @@ This repository contains solutions to CSES problemset. Plese try solving before 
 - Two Sets II [Problem](https://cses.fi/problemset/task/1093/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Dynamic%20Programming/Two_Sets_II.cpp)
 - Money Sums [Problem](https://cses.fi/problemset/task/1745/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Dynamic%20Programming/Money_Sums.cpp)
 - Rectangle Cutting [Problem](https://cses.fi/problemset/task/1744/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Dynamic%20Programming/Rectangle_Cutting.cpp)
-- Book Shop [Problem]() | [Solution](https://cses.fi/problemset/result/3461982/)
-- Edit Distance [Problem]() | [Solution](https://cses.fi/problemset/result/3461982/)
+- Book Shop [Problem](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Dynamic%20Programming/Book_Shop.cpp) | [Solution](https://cses.fi/problemset/result/3461982/)
+- Edit Distance [Problem](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Dynamic%20Programming/Edit_Distance.cpp) | [Solution](https://cses.fi/problemset/result/3461982/)
 
 ## Graph Algorithms
 
@@ -64,9 +64,9 @@ This repository contains solutions to CSES problemset. Plese try solving before 
 - Road Reparation [Problem](https://cses.fi/problemset/task/1675/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Graph%20Algorithms/Road_Reparation.cpp)
 - Flight Routes [Problem](https://cses.fi/problemset/task/1196/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Graph%20Algorithms/Flight_Routes.cpp)
 - Cycle Finding [Problem](https://cses.fi/problemset/task/1197/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Graph%20Algorithms/Cycle_Finding.cpp)
-- Monsters [Problem](https://cses.fi/problemset/task/1639/) | [Solution](https://cses.fi/problemset/result/2328897/)
-- shortest Routest I [Problem]() | [Solution](https://cses.fi/problemset/result/1899551/)
-- Shortest Routest II [Problem]() | [solution](https://cses.fi/problemset/result/1899435/)
+- Monsters [Problem](https://cses.fi/problemset/task/1194/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Graph%20Algorithms/Monsters.cpp)
+- shortest Routest I [Problem](https://cses.fi/problemset/task/1671/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Graph%20Algorithms/Shortest_Routes_I.cpp)
+- Shortest Routest II [Problem](https://cses.fi/problemset/task/1672/) | [solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Graph%20Algorithms/Shortest_Routes_II.cpp)
 
 ## Range Queries
 
