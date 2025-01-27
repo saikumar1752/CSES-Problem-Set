@@ -85,16 +85,16 @@ This repository contains solutions to CSES problemset. Plese try solving before 
 ## Tree Algorithms
 
 - Subordinates [Problem](https://cses.fi/problemset/task/1674) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Tree%20Algorithms/Subordinates.cpp)
-- Tree Diameter [Problem](https://cses.fi/problemset/task/1131/) | [Solution]()
-- Tree Distances II [Problem](https://cses.fi/problemset/task/1133/) | [Solution]()
-- Company Queries I [Problem](https://cses.fi/problemset/task/1687/) | [Solution]()
-- Company Queries II [Problem](https://cses.fi/problemset/task/1688/) | [Solution]()
-- Distance Queries [Problem](https://cses.fi/problemset/task/1135/) | [Solution]()
-- Subtree Queries [Problem](https://cses.fi/problemset/task/1137/) | [Solution]()
-- Path Queries [Problem](https://cses.fi/problemset/task/1138/) | [Solution]()
-- Distinct Colors [Problem](https://cses.fi/problemset/task/1139/) | [Solution]()
-- Finding a Centroid [Problem](https://cses.fi/problemset/task/2079/) | [Solution]()
-- Fixed-Length Paths I [Problem](https://cses.fi/problemset/task/2080/) | [Solution]()
+- Tree Diameter [Problem](https://cses.fi/problemset/task/1131/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Tree%20Algorithms/Company_Queries_I.cpp)
+- Tree Distances II [Problem](https://cses.fi/problemset/task/1133/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Tree%20Algorithms/Tree_Distances_II.cpp)
+- Company Queries I [Problem](https://cses.fi/problemset/task/1687/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Tree%20Algorithms/Company_Queries_I.cpp)
+- Company Queries II [Problem](https://cses.fi/problemset/task/1688/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Tree%20Algorithms/Company_Queries_II.cpp)
+- Distance Queries [Problem](https://cses.fi/problemset/task/1135/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Tree%20Algorithms/Distance_Queries.cpp)
+- Subtree Queries [Problem](https://cses.fi/problemset/task/1137/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Tree%20Algorithms/Subtree_Queries.cpp)
+- Path Queries [Problem](https://cses.fi/problemset/task/1138/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Tree%20Algorithms/Path_Queries.cpp)
+- Distinct Colors [Problem](https://cses.fi/problemset/task/1139/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Tree%20Algorithms/Distinct_Colors.cpp)
+- Finding a Centroid [Problem](https://cses.fi/problemset/task/2079/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Tree%20Algorithms/Finding_a_Centroid.cpp)
+- Fixed-Length Paths I [Problem](https://cses.fi/problemset/task/2080/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Tree%20Algorithms/Fixed-Length_Paths%20I.cpp)
 
 ## Mathematics
 
