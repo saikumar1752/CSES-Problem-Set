@@ -85,11 +85,16 @@ This repository contains solutions to CSES problemset. Plese try solving before 
 ## Tree Algorithms
 
 - Subordinates [Problem](https://cses.fi/problemset/task/1674) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Tree%20Algorithms/Subordinates.cpp)
-- Static Range Minimum Queries [Problem](https://cses.fi/problemset/task/1647/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Tree%20Algorithms/Static_Range_Minimum_Queries.cpp)
-- Dynamic Range Sum Queries [Problem](https://cses.fi/problemset/task/1648/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Tree%20Algorithms/Dynamic_Range_Sum_Queries.cpp)
-- Dynamic Range Minimum Queries [Problem](https://cses.fi/problemset/task/1649/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Tree%20Algorithms/Dynamic_Range_Minimum_Queries.cpp)
-- Range Xor Queries [Problem](https://cses.fi/problemset/task/1650/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Tree%20Algorithms/Range_Xor_Queries.cpp)
-- Range Update Queries [Problem](https://cses.fi/problemset/task/1651/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Tree%20Algorithms/Range_Update_Queries.cpp)
+- Tree Diameter [Problem](https://cses.fi/problemset/task/1131/) | [Solution]()
+- Tree Distances II [Problem](https://cses.fi/problemset/task/1133/) | [Solution]()
+- Company Queries I [Problem](https://cses.fi/problemset/task/1687/) | [Solution]()
+- Company Queries II [Problem](https://cses.fi/problemset/task/1688/) | [Solution]()
+- Distance Queries [Problem](https://cses.fi/problemset/task/1135/) | [Solution]()
+- Subtree Queries [Problem](https://cses.fi/problemset/task/1137/) | [Solution]()
+- Path Queries [Problem](https://cses.fi/problemset/task/1138/) | [Solution]()
+- Distinct Colors [Problem](https://cses.fi/problemset/task/1139/) | [Solution]()
+- Finding a Centroid [Problem](https://cses.fi/problemset/task/2079/) | [Solution]()
+- Fixed-Length Paths I [Problem](https://cses.fi/problemset/task/2080/) | [Solution]()
 
 ## Mathematics
 
