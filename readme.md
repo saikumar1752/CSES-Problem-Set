@@ -104,10 +104,10 @@ This repository contains solutions to CSES problemset. Plese try solving before 
 - Binomial Coefficients [Problem](https://cses.fi/problemset/task/1079/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Mathematics/Binomial_Coefficients.cpp)
 - Creating Strings II [Problem](https://cses.fi/problemset/task/1715/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Mathematics/Creating_Strings_II.cpp)
 - Distributing Apples [Problem](https://cses.fi/problemset/task/1716) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Mathematics/Distributing_Apples.cpp)
-- Graph Paths II [Problem](https://cses.fi/problemset/task/1724/) | [Solution]()
-- Graph Paths I [Problem](https://cses.fi/problemset/task/1723/) | [Solution]()
-- Fibonacci Numbers [Problem](https://cses.fi/problemset/task/1722/) | [Solution]()
-- Bracket Sequences I [Problem](https://cses.fi/problemset/task/2064/) | [Solution]()
+- Graph Paths II [Problem](https://cses.fi/problemset/task/1724/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Mathematics/Graph_Paths_II.cpp)
+- Graph Paths I [Problem](https://cses.fi/problemset/task/1723/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Mathematics/Graph_Paths_I.cpp)
+- Fibonacci Numbers [Problem](https://cses.fi/problemset/task/1722/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Mathematics/Fibonacci_Numbers.py)
+- Bracket Sequences I [Problem](https://cses.fi/problemset/task/2064/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/Mathematics/Bracket_Sequences_I.cpp)
 
 ## String Algorithms
 
@@ -117,7 +117,7 @@ This repository contains solutions to CSES problemset. Plese try solving before 
 - String Functions [Problem](https://cses.fi/problemset/task/2107/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/String%20Algorithms/String_Functions.cpp)
 - Substring Order I [Problem](https://cses.fi/problemset/task/2108/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/String%20Algorithms/Substring_Order_I.cpp)
 - Substring Distribution [Problem](https://cses.fi/problemset/task/2110/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/String%20Algorithms/Substring_Distribution.cpp)
-- Finding Periods [Problem](https://cses.fi/problemset/task/1733/) | [Solution]()
+- Finding Periods [Problem](https://cses.fi/problemset/task/1733/) | [Solution](https://github.com/saikumar1752/CSES-Problem-Set/blob/main/String%20Algorithms/Finding_Periods.cpp)
 
 ## Geometry
 
